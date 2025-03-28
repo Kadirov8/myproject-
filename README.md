@@ -14,7 +14,7 @@
 
 ```
 
-git clone https://github.com/idibek-alimov/watchapi.git
+git clone https://github.com/kadirov-shakhed/watchapi.git
 ```
 
 2. Установить зависимости:
